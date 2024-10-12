@@ -24,11 +24,12 @@ Open Your Terminal:
    sudo service mysql start
 3. **LOG in to mysql and Create Databse and user:**
    ```bash
-   sudo mysql -u root -p
-   CREATE DATABASE hackers;
-   CREATE USER 'moaaz'@'localhost' IDENTIFIED BY '1234';
-   GRANT ALL PRIVILEGES ON hackers.* TO 'moaaz'@'localhost';
-   EXIT;
+      sudo mysql -u root -p
+      CREATE DATABASE hackers;
+      CREATE USER 'karim'@'localhost' IDENTIFIED BY '1234';
+      GRANT ALL PRIVILEGES ON hackers.* TO 'karim'@'localhost';
+      EXIT;
+
    
 4.**Import the SQL file into the database:**
   ```bash
