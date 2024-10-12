@@ -1,5 +1,4 @@
-# Hacker's Stories by 0xKimoz
-#Edited by @noorbnhossam
+# Hacker's Stories by 0xKimoz ____ Edited by **@noorbnhossam**
 
 ## Description
 
