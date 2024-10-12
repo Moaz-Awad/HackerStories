@@ -17,7 +17,7 @@ Open Your Terminal:
 
 1. **Clone the Project:**
    ```bash
-   git clone https://github.com/moaz-awad/HackerStories.git
+   git clone https://github.com/Moaz-Awad/HackerStories.git
 
 2. **Start MySQL service:**
    ```bash
