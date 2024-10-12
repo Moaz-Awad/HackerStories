@@ -17,7 +17,7 @@ Open Your Terminal:
 
 1. **Clone the Project:**
    ```bash
-   git clone https://github.com/karimtariqx/HackerStories.git
+   git clone https://github.com/moaz-awad/HackerStories.git
 
 2. **Start MySQL service:**
    ```bash
@@ -26,8 +26,8 @@ Open Your Terminal:
    ```bash
    sudo mysql -u root -p
    CREATE DATABASE hackers;
-   CREATE USER 'karim'@'localhost' IDENTIFIED BY '1234';
-   GRANT ALL PRIVILEGES ON hackers.* TO 'karim'@'localhost';
+   CREATE USER 'moaaz'@'localhost' IDENTIFIED BY '1234';
+   GRANT ALL PRIVILEGES ON hackers.* TO 'moaaz'@'localhost';
    EXIT;
    
 4.**Import the SQL file into the database:**
